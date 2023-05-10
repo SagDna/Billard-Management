@@ -1,0 +1,15 @@
+D:\C#\Billard Management\Billard Management\bin\Debug\Billard Management.exe.config
+D:\C#\Billard Management\Billard Management\bin\Debug\Billard Management.exe
+D:\C#\Billard Management\Billard Management\bin\Debug\Billard Management.pdb
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard Management.csproj.AssemblyReference.cache
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard Management.csproj.SuggestedBindingRedirects.cache
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard_Management.login.resources
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard_Management.Properties.Resources.resources
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard Management.csproj.GenerateResource.cache
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard Management.csproj.CoreCompileInputs.cache
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard Management.exe
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard Management.pdb
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard_Management.homePage.resources
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard_Management.tableDetails.resources
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard_Management.register.resources
+D:\C#\Billard Management\Billard Management\obj\Debug\Billard_Management.listTable.resources
